@@ -1,4 +1,5 @@
-# uvicorn path_parameter:app --reload
+# uvicorn path_parameters:app --reload
+
 # FastAPI는 Starlette를 직접 상속하는 클래스입니다.
 from fastapi import FastAPI
 
